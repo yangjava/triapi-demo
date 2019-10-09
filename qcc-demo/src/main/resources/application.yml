@@ -1,0 +1,8 @@
+# 服务器端口
+server:
+  port: 8081
+  servlet:
+    context-path: /
+qcc:
+  key: "xxx"
+  secret: "xxx"
