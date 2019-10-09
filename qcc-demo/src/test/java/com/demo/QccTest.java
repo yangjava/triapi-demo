@@ -15,7 +15,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 @RunWith(SpringRunner.class)
 public class QccTest {
-    private static Logger LOG= LoggerFactory.getLogger(QccVerifyCompanyService.class);
+
+    private static Logger LOG= LoggerFactory.getLogger(QccTest.class);
+
     @Autowired
     QccVerifyCompanyService qccVerifyCompanyService;
 

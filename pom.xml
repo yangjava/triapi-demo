@@ -11,6 +11,7 @@
     <modules>
         <module>qcc-demo</module>
         <module>result-demo</module>
+        <module>esign-demo</module>
     </modules>
 
     <parent>
